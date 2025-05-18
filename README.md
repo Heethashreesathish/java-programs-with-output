@@ -35,6 +35,12 @@
 ** program ex10**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/exer10.png)
 
 
+# program2a
+
+**program 2a**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/linked1.png)
+
+
+
 
 
 
