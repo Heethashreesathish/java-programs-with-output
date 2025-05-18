@@ -44,6 +44,13 @@
 
 
 
+# program2b
+
+**program 2b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/pg2a.png)
+
+
+
+
 
 
 
