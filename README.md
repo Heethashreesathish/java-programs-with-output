@@ -40,6 +40,10 @@
 **program 2a**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/linked1.png)
 
 
+**program 2a**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/linked2.png)
+
+
+
 
 
 
