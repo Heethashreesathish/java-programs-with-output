@@ -109,6 +109,15 @@
 **program 5a**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/5a_DisplaySelection.png)
 
 
+**program 5b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/5b_TabbedPane.png)
+
+
+**program 5c**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/5c_DisplayCapitals.png)
+
+
+**program 5d**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/5d_TabbedPane.png)
+
+
 
 
 
