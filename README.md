@@ -89,7 +89,7 @@
 **program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_StringExercise9.png)
 
 
-**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_StringExercise10.png)
+**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_StringExercise0.png)
 
 
 # program 4 
