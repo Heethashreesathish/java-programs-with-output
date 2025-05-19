@@ -51,6 +51,51 @@
 
 
 
+# program3a
+
+**program 3a**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3a_string operation1.png)
+
+
+**program 3a**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3a_string operation2.png)
+
+
+
+# program3b
+
+**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_String Exercise1.png)
+
+
+**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_String Exercise2.png)
+
+
+**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_String Exercise3.png)
+
+
+**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_String Exercise4.png)
+
+
+**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_String Exercise5.png)
+
+
+**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_String Exercise6.png)
+
+
+**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_String Exercise7.png)
+
+
+**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_String Exercise8.png)
+
+
+**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_String Exercise9.png)
+
+
+**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_String Exercise10.png)
+
+
+
+
+
+
 
 
 
