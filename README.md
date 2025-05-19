@@ -104,6 +104,12 @@
 
 
 
+# program 5
+
+**program 5a**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/5a_DisplaySelection.png)
+
+
+
 
 
 
