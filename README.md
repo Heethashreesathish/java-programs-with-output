@@ -65,7 +65,7 @@
 **program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_StringExercise1.png)
 
 
-**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_String Exercise2.png)
+**program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_StringExercise2.png)
 
 
 **program 3b**-(https://github.com/Heethashreesathish/java-programs-with-output/blob/main/3bc_StringExercise3.png)
